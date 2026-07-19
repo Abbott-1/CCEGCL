@@ -1,0 +1,8 @@
+2026-06-05 17:14:04.980: Epinions_small_ratio_u0_i0
+2026-06-05 17:14:04.980: Dataset name: Epinions_small
+The number of users: 2985
+The number of items: 20000
+The number of ratings: 214477
+Average actions of users: 71.85
+Average actions of items: 10.72
+The sparsity of the dataset: 99.640742%
